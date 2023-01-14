@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1 {
+  color: chartreuse;
+  font-family: "Rubik Mono One", sans-serif;
+}
+
+#playgame {
+  height: 70px;
+  width: 200px;
+  color: lightgreen;
+  border: solid 2px yellow;
+  border-radius: 10px;
+  margin-top: 30px;
+  background-color: rgb(53, 53, 53);
+}
+
+h3 {
+  color: chartreuse;
+  font-family: "Rubik Mono One", sans-serif;
+}
+
+h5 {
+  color: chartreuse;
+  font-family: "Rubik Mono One", sans-serif;
+}
